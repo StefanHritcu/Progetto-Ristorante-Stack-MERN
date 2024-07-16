@@ -1,30 +1,24 @@
-## <a/ href="https://main--ristorantemern.netlify.app/" 
-<h1>LINK PER IL SITO</h1>
+## 01-Progetto Ristorante con Stack MERN ##
 
-Struttura del Progetto
-Il progetto è suddiviso in due parti principali:
+<div style="display: flex; justify-content: center;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+   <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+</div>
 
-Backend (Server)
-Frontend (Client)
+### Links: ### 
+**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN) **Qui troverai la descrizione completa**
 
+**Link del sito con Netlify:** (https://main--ristorantemern.netlify.app/).
 
--Backend (Server)
-Tecnologie: Node.js, Express.js, MongoDB
+### Descrizione: ### 
+Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
-Funzionalità principali:
-Gestione delle prenotazioni
-Autenticazione e autorizzazione degli utenti
-API RESTful per il frontend
+### Tecnologie utilizzate: ### 
 
-
--Frontend (Client)
-Tecnologie: React, Redux
-Funzionalità principali:
-Interfaccia utente per i clienti per effettuare prenotazioni
-Dashboard per i dipendenti e il proprietario per gestire le prenotazioni
-Autenticazione e autorizzazione degli utenti
-
-
+- **Frontend:** React, JavaScript/ES6+, HTML, CSS/TAILWIND.CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Deployment:** Netlify (solo lato frontend)
 Requisiti
 Node.js (versione 14 o superiore)
 MongoDB (versione 4 o superiore)
