@@ -1,7 +1,7 @@
 ## 01-Progetto Ristorante con Stack MERN ##
 
 <div style="display: flex; justify-content: center;">
-  <img src="progettoMernRistorante.pngg" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="progettoMernRistorante.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
   <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
    <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
 </div>
